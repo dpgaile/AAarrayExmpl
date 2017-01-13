@@ -22,8 +22,7 @@ Four datasets containing the output from GenePix
 \examples{
 data("Slide1_IgG")
 data("Slide1_IgM")
-data("Slide2_IgG")
-data("Slide2_IgM")
+data("ListArrays")
 
 }
 \keyword{datasets}

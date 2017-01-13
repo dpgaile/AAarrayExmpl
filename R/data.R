@@ -12,8 +12,7 @@
 #' @examples
 #' data("Slide1_IgG")
 #' data("Slide1_IgM")
-#' data("Slide2_IgG")
-#' data("Slide2_IgM")
+#' data("ListArrays")
 #'
 #' @source \url{https://microarray.swmed.edu/products/category/protein-array/}
 "Slide1_IgG"
